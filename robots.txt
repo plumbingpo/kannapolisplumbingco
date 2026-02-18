@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kannapolisplumbingco.com/sitemap.xml
